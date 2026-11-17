@@ -1,8 +1,8 @@
 class Fluteterm < Formula
   desc "Drop-down terminal for macOS with Claude Code and Orca integration"
   homepage "https://vuhiza.github.io/fluteterm/"
-  url "https://github.com/vuhiza/fluteterm/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "4051de386fd7668978eb4ed16834637b1fdbe235f597569f7e5975173e9fa675"
+  url "https://github.com/vuhiza/fluteterm/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "8142be6286ae0f778b1ae20f4cbbb238553b88e64cf16364abaad364e183baff"
   license "MIT"
   head "https://github.com/vuhiza/fluteterm.git", branch: "main"
 
